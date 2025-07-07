@@ -1,0 +1,3 @@
+/home/admin1/paddle/build/CMakeFiles/rebuild_cache.dir
+/home/admin1/paddle/build/CMakeFiles/edit_cache.dir
+/home/admin1/paddle/build/CMakeFiles/OCR.dir
