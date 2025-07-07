@@ -5,7 +5,7 @@ rm -rf third-party
 # Сборка (если уже настроено)
 cmake --build ./build/Debug
 
-# ИЛИ полная переконфигурация + сборка
+# полная переконфигурация + сборка
 cmake -B ./build/Debug -DCMAKE_BUILD_TYPE=Debug
 cmake --build ./build/Debug
 
@@ -14,6 +14,7 @@ cmake --build ./build/Debug
 
 
 
-
+sudo mkdir -p /usr/local/include/paddle-lite
+sudo cp -r build.lite.linux.armv8.gcc/inference_lite_lib.armlinux.armv8/cxx/include/*.* /usr/local/include/paddle-lite
 
 export LD_LIBRARY_PATH=/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/inference_lite_lib/third_party/mklml/lib:$LD_LIBRARY_PATH
