@@ -1,0 +1,18 @@
+CREATE /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/libpaddle_api_full_bundled.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/api/libpaddle_api_full.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/glog/lib/libglog.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/lib/libgflags.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/core/libframework_proto.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/protobuf/lib/libprotobuf.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/core/libcore.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/backends/host/libtarget_wrapper_host.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/operators/libops.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/utils/libutils.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/kernels/libkernels.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/backends/host/math/libmath_host.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/backends/x86/libx86_math.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/libcblas.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/xxhash/lib/libxxhash.a
+ADDLIB /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/model_parser/libmodel_parser.a
+SAVE
+END

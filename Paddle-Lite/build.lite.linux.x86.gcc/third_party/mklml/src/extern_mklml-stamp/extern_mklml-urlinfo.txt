@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://paddlepaddledeps.bj.bcebos.com/Glibc225_vsErf_mklml_lnx_2019.0.1.20181227.tgz'
+tag=''

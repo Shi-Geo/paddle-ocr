@@ -1,0 +1,131 @@
+loading initial cache file /home/admin1/paddle/Paddle-Lite/third-party/glog/tmp/extern_glog-cache-Release.cmake
+-- The C compiler identification is GNU 8.4.0
+-- The CXX compiler identification is GNU 8.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Looking for gflags namespace
+-- Looking for gflags namespace - gflags
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - found
+-- Found Threads: TRUE  
+-- Looking for dlfcn.h
+-- Looking for dlfcn.h - found
+-- Looking for execinfo.h
+-- Looking for execinfo.h - found
+-- Looking for glob.h
+-- Looking for glob.h - found
+-- Looking for inttypes.h
+-- Looking for inttypes.h - found
+-- Looking for libunwind.h
+-- Looking for libunwind.h - found
+-- Looking for memory.h
+-- Looking for memory.h - found
+-- Looking for pwd.h
+-- Looking for pwd.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stdlib.h
+-- Looking for stdlib.h - found
+-- Looking for string.h
+-- Looking for string.h - found
+-- Looking for strings.h
+-- Looking for strings.h - found
+-- Looking for sys/stat.h
+-- Looking for sys/stat.h - found
+-- Looking for sys/syscall.h
+-- Looking for sys/syscall.h - found
+-- Looking for sys/time.h
+-- Looking for sys/time.h - found
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for sys/utsname.h
+-- Looking for sys/utsname.h - found
+-- Looking for syscall.h
+-- Looking for syscall.h - found
+-- Looking for syslog.h
+-- Looking for syslog.h - found
+-- Looking for ucontext.h
+-- Looking for ucontext.h - found
+-- Looking for unistd.h
+-- Looking for unistd.h - found
+-- Looking for unwind.h
+-- Looking for unwind.h - found
+-- Looking for C++ include ext/hash_map
+-- Looking for C++ include ext/hash_map - found
+-- Looking for C++ include ext/hash_set
+-- Looking for C++ include ext/hash_set - found
+-- Looking for C++ include ext/slist
+-- Looking for C++ include ext/slist - found
+-- Looking for C++ include tr1/unordered_map
+-- Looking for C++ include tr1/unordered_map - found
+-- Looking for C++ include tr1/unordered_set
+-- Looking for C++ include tr1/unordered_set - found
+-- Looking for C++ include unordered_map
+-- Looking for C++ include unordered_map - found
+-- Looking for C++ include unordered_set
+-- Looking for C++ include unordered_set - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of unsigned __int16
+-- Check size of unsigned __int16 - failed
+-- Check size of u_int16_t
+-- Check size of u_int16_t - done
+-- Check size of uint16_t
+-- Check size of uint16_t - done
+-- Looking for dladdr
+-- Looking for dladdr - found
+-- Looking for fcntl
+-- Looking for fcntl - found
+-- Looking for pread
+-- Looking for pread - found
+-- Looking for pwrite
+-- Looking for pwrite - found
+-- Looking for sigaction
+-- Looking for sigaction - found
+-- Looking for sigaltstack
+-- Looking for sigaltstack - found
+-- Performing Test HAVE_NO_DEPRECATED
+-- Performing Test HAVE_NO_DEPRECATED - Success
+-- Performing Test HAVE_NO_UNNAMED_TYPE_TEMPLATE_ARGS
+-- Performing Test HAVE_NO_UNNAMED_TYPE_TEMPLATE_ARGS - Failed
+-- Looking for snprintf
+-- Looking for snprintf - found
+-- Looking for get_static_proc_name in unwind
+-- Looking for get_static_proc_name in unwind - not found
+-- Performing Test HAVE___ATTRIBUTE__
+-- Performing Test HAVE___ATTRIBUTE__ - Success
+-- Performing Test HAVE___ATTRIBUTE__VISIBILITY_DEFAULT
+-- Performing Test HAVE___ATTRIBUTE__VISIBILITY_DEFAULT - Success
+-- Performing Test HAVE___ATTRIBUTE__VISIBILITY_HIDDEN
+-- Performing Test HAVE___ATTRIBUTE__VISIBILITY_HIDDEN - Success
+-- Performing Test HAVE___BUILTIN_EXPECT
+-- Performing Test HAVE___BUILTIN_EXPECT - Success
+-- Performing Test HAVE___SYNC_VAL_COMPARE_AND_SWAP
+-- Performing Test HAVE___SYNC_VAL_COMPARE_AND_SWAP - Success
+-- Performing Test HAVE_RWLOCK
+-- Performing Test HAVE_RWLOCK - Success
+-- Performing Test HAVE___DECLSPEC
+-- Performing Test HAVE___DECLSPEC - Failed
+-- Performing Test STL_NO_NAMESPACE
+-- Performing Test STL_NO_NAMESPACE - Failed
+-- Performing Test STL_STD_NAMESPACE
+-- Performing Test STL_STD_NAMESPACE - Success
+-- Performing Test HAVE_USING_OPERATOR
+-- Performing Test HAVE_USING_OPERATOR - Success
+-- Performing Test HAVE_NAMESPACES
+-- Performing Test HAVE_NAMESPACES - Success
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/admin1/paddle/Paddle-Lite/third-party/glog/src/extern_glog-build

@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://paddlelite-data.bj.bcebos.com/third_party_libs/eigen-git-mirror-master-9ab917e9db99f5907d086aa73d5f9103.zip'
+tag=''

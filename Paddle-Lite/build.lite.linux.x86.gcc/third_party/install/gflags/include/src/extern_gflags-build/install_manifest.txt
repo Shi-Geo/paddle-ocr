@@ -1,0 +1,13 @@
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/lib/libgflags.a
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/lib/libgflags_nothreads.a
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/include/gflags/gflags.h
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/include/gflags/gflags_declare.h
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/include/gflags/gflags_completions.h
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/include/gflags/gflags_gflags.h
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/lib/cmake/gflags/gflags-config.cmake
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/lib/cmake/gflags/gflags-config-version.cmake
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/lib/cmake/gflags/gflags-targets.cmake
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/lib/cmake/gflags/gflags-targets-noconfig.cmake
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/bin/gflags_completions.sh
+/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/third_party/install/gflags/lib/pkgconfig/gflags.pc
+/home/admin1/.cmake/packages/gflags/df6e951955cf856dce3c9825d98762e8

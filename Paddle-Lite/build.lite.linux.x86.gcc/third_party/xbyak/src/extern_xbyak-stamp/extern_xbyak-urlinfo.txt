@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://paddle-inference-dist.bj.bcebos.com/PaddleLite_ThirdParty%2Fxbyak-5.99.zip'
+tag=''

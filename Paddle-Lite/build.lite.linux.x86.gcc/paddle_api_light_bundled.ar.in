@@ -1,0 +1,18 @@
+CREATE /home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/libpaddle_api_light_bundled.a
+ADDLIB $<TARGET_FILE:paddle_api_light>
+ADDLIB $<TARGET_FILE:glog>
+ADDLIB $<TARGET_FILE:gflags>
+ADDLIB $<TARGET_FILE:utils>
+ADDLIB $<TARGET_FILE:core>
+ADDLIB $<TARGET_FILE:target_wrapper_host>
+ADDLIB $<TARGET_FILE:framework_proto>
+ADDLIB $<TARGET_FILE:protobuf>
+ADDLIB $<TARGET_FILE:kernels>
+ADDLIB $<TARGET_FILE:math_host>
+ADDLIB $<TARGET_FILE:x86_math>
+ADDLIB $<TARGET_FILE:cblas>
+ADDLIB $<TARGET_FILE:xxhash>
+ADDLIB $<TARGET_FILE:model_parser>
+ADDLIB $<TARGET_FILE:ops>
+SAVE
+END

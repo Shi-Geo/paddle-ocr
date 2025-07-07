@@ -1,0 +1,1 @@
+const char *dummy_utils = "/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/lite/utils/utils_dummy.c";

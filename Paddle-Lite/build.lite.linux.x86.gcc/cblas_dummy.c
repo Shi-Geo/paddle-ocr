@@ -1,0 +1,1 @@
+const char *dummy_cblas = "/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/cblas_dummy.c";

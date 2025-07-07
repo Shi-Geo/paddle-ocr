@@ -1,0 +1,11 @@
+x86_math
+target_wrapper_host
+math_host
+utils
+kernels
+core
+model_parser
+paddle_api_light
+paddle_api_full
+paddle_light_api_shared
+paddle_full_api_shared
