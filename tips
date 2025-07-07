@@ -1,0 +1,19 @@
+rm -rf third-party
+'release/v2.12'
+
+
+# Сборка (если уже настроено)
+cmake --build ./build/Debug
+
+# ИЛИ полная переконфигурация + сборка
+cmake -B ./build/Debug -DCMAKE_BUILD_TYPE=Debug
+cmake --build ./build/Debug
+
+# Запуск
+./build/Debug/OpenCVExample
+
+
+
+
+
+export LD_LIBRARY_PATH=/home/admin1/paddle/Paddle-Lite/build.lite.linux.x86.gcc/inference_lite_lib/third_party/mklml/lib:$LD_LIBRARY_PATH
